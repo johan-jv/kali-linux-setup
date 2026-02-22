@@ -45,5 +45,5 @@ My Kali Linux dual-boot installation and basic Linux command practice.
 ## Completed the Installation:
   After finishing the installation, I removed the USB drive when prompted.
 
-##Dealt with Boot Options:
+## Dealt with Boot Options:
   Now, whenever I restart my laptop, it boots straight into Kali unless Windows is mentioned.
